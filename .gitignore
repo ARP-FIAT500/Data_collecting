@@ -127,5 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-speakEV_forum_scraping.py
