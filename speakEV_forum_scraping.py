@@ -106,7 +106,7 @@ comments_page
 comments_page.to_csv('speakEV.csv')
 
 
-#%% test
+#%% create the define function of 
 # 
 def scrape_user_info(link):
     
